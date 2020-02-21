@@ -1,0 +1,30 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/kevinosborn/Desktop/sei/week11/rails-tdd-fruitstore/app/models/fruit.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/kevinosborn/Desktop/sei/week11/rails-tdd-fruitstore/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/kevinosborn/Desktop/sei/week11/rails-tdd-fruitstore/app/models/pear.rb": {
+        "lines": [
+
+        ]
+      }
+    },
+    "timestamp": 1582068187
+  }
+}
